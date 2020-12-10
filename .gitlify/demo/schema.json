@@ -31,24 +31,11 @@
       "ui:autocomplete": "off"
     },
     "lastName": {
-      "ui:emptyValue": ""
-    },
-    "age": {
-      "ui:widget": "updown",
-      "ui:title": "Age of person",
-      "ui:description": "(earthian year)"
-    },
-    "bio": {
-      "ui:widget": "textarea"
-    },
-    "password": {
-      "ui:widget": "password",
-      "ui:help": "Hint: Make it strong!"
-    },
-    "date": {
-      "ui:widget": "alt-datetime"
+      "ui:emptyValue": "",
+      "ui:autocomplete": "off"
     },
     "telephone": {
+      "ui:autocomplete": "off",
       "ui:options": {
         "inputType": "tel"
       }
