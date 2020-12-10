@@ -37,7 +37,8 @@
     "telephone": {
       "ui:autocomplete": "off",
       "ui:options": {
-        "inputType": "tel"
+        "inputType": "tel",
+        "autocomplete": "off"
       }
     }
   }
