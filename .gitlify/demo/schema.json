@@ -27,7 +27,8 @@
   "uiSchema": {
     "firstName": {
       "ui:autofocus": true,
-      "ui:emptyValue": ""
+      "ui:emptyValue": "",
+      "ui:autocomplete": "off"
     },
     "lastName": {
       "ui:emptyValue": ""
