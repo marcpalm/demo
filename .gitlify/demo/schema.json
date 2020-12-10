@@ -27,12 +27,10 @@
   "uiSchema": {
     "firstName": {
       "ui:autofocus": true,
-      "ui:emptyValue": "",
-      "ui:autocomplete": "family-name"
+      "ui:emptyValue": ""
     },
     "lastName": {
-      "ui:emptyValue": "",
-      "ui:autocomplete": "given-name"
+      "ui:emptyValue": ""
     },
     "age": {
       "ui:widget": "updown",
