@@ -1,0 +1,6 @@
+{
+  "title": "Simple form",
+  "description": "Here you can see what you get",
+  "type": "string",
+  "name": "hello"
+}
